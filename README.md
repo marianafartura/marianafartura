@@ -1,4 +1,4 @@
-## Helloooo, I'm Mariana! Web Designer, Front-End Dev and (eternal) programming student 🤓
+## Hello, I'm Mariana! Web Designer, Front-End Dev and (eternal) programming student 🤓
 <div align="center">
   <a href="https://github.com/marianafartura">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=marianafartura&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
