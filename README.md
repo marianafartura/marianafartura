@@ -1,5 +1,5 @@
 <div align="center">
- <h3>Hey, I'm Mariana! Web Designer, Front-End Dev and (eternal) programming student 🤓</h3>
+ <h3>Hey, I'm Mariana! Web designer, front-end dev and (eternal) programming student 🤓</h3>
 </div>
 <div align="center">
   <a href="https://github.com/marianafartura">
