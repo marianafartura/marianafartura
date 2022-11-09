@@ -1,4 +1,4 @@
-<div align="center">
+<div>
  <h3>Hey, I'm Mariana! Web Designer, Front-End Dev and (eternal) programming student 🤓</h3>
 </div>
 <div align="center">
