@@ -1,5 +1,5 @@
 <div align="center">
- <h2>Hi, i'm Mariana! <img vertical-align="middle" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="22px" height="22px" important!> Web designer and front-end dev.</h2>
+ <h3>Hi, i'm Mariana! <img vertical-align="middle" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="22px" height="22px" important!> Web designer and front-end dev.</h3>
  <h3>Currently studying Systems Analysis and Development!</h3>
 </div>
 <div align="center">
