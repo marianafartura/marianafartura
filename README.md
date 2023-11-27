@@ -14,7 +14,7 @@ Hi, I'm Mariana Fartura!
 <hr>
 
 <pre>
-💻 Front-End Developer and WebDesigner
+💻 Front-End Developer and Web Designer
 📚 Studying Systems Analysis and Development at University Center Uninter
 📝 Strong interest in responsive design and creative solutions
 🔭 Working with advertising design and CSS/JavaScript animations
