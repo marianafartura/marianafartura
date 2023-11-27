@@ -1,14 +1,83 @@
-<div align="center">
- <h3>Hello, i'm Mariana! Web Designer and Front-end Dev <img vertical-align="middle" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="22px" height="22px" important!></h3>
-</div>
-<div align="center">
-  <a href="https://github.com/marianafartura">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=marianafartura&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianafartura&layout=compact&langs_count=7&theme=github_dark"/>
-</div>
-<div style="display: inline_block" align="center"><br>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
- </div>
- 
+<h1 align="center">
+Hi, I'm Mariana Fartura!
+	<a href="https://github.com/Bouaskaoun" target="_self">
+		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+	</a>
+</h1>
+ <p align="center">
+	<a href="https://github.com/marianafartura">
+		<img src="https://komarev.com/ghpvc/?username=bouaskaoun&label=Profile%20views&color=0e75b6&style=flat" alt="marianafartura" />
+	</a>
+	<a href="https://github.com/marianafartura">
+		<img src="https://img.shields.io/github/followers/bouaskaoun?label=Followers" alt="marianafartura" />
+	</a>
+</p>
+<br/>
+<p align="center">
+	<a href="https://github.com/marianafartura">
+<img src="https://readme-typing-svg.herokuapp.com?lines=System+Development+Student;Front-End+Developer;Web+Designer;Freelancer;DS+%7C+AI+%7C+ML+Enthusiastic;Always+learning+new+things&center=true&width=380&height=45" alt="Descrição das habilidades">
+	</a>
+</p>
+
+<hr>
+
+<pre>
+💻 Front-end developer and web designer
+📚 Studying Systems Analysis and Development at University Center Uninter
+📝 Strong interest in responsive design and creative solutions
+🔭 Working with advertising design and CSS/JavaScript animations
+🌱 Focused on mastering JavaScript and its front-end tools through Alura's online courses
+🌟 Main languages: CSS, JavaScript, and Python
+</pre>
+<hr>
+
+## 🤝 Connect with me
+<p align="center">
+	<a href="mailto:contatomarianafartura@gmail.com"><img img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="https://www.linkedin.com/in/marianafartura/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+	<a href="https://github.com/marianafartura"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+ <a href="https://behance.com/marianafartura"><img src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white" alt="GitHub"/></a>
+
+</p>
+
+## 🛠️ My Favorite Tools
+
+### 👨‍💻 Programming Languages
+
+<p>
+    <a href="https://github.com/marianafartura"><img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>
+    <a href="https://github.com/marianafartura"><img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
+    <a href="https://github.com/marianafartura"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></a>
+    <a href="https://github.com/marianafartura"><img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"></a>
+
+### 🧰 Frameworks and Libraries
+
+<p>
+    <a href="https://github.com/marianafartura"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
+</p>
+
+### 💻 Softwares and Tools
+
+<p>
+    <a href="https://github.com/marianafartura"><img alt="Adobe Photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"></a>
+    <a href="https://github.com/marianafartura"><img alt="Adobe Illustrator" src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"></a>
+    <a href="https://github.com/marianafartura"><img alt="Adobe InDesign" src="https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=Adobe%20InDesign&logoColor=white"></a>
+    <a href="https://github.com/marianafartura"><img alt="Adobe Dreamweaver" src="https://img.shields.io/badge/Adobe%20Dreamweaver-072401?style=for-the-badge&logo=Adobe%20Dreamweaver&logoColor=34F400"></a>
+    <a href="https://github.com/marianafartura"><img alt="Sublime Text" src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important"></a>
+    <a href="https://github.com/marianafartura"><img alt="Visual Studio Code" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
+     <a href="https://github.com/marianafartura"><img alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"></a>
+</p>
+
+</br>
+
+## <a href="https://github.com/marianafartura"></a> 🎯 GitHub Stats
+
+<br/>
+<p align="center">
+	<a href="https://github.com/marianafartura">
+	<img width="49.5%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=marianafartura&theme=transparent" alt="marianafartura">
+	<img width="31.4%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianafartura&theme=transparent" alt="marianafartura">
+	</a>
+	<br/>
+</p>
+</br>
