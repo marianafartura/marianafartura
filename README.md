@@ -67,8 +67,8 @@ Hi, I'm Mariana Fartura!
 <br/>
 <p align="center">
 	<a href="https://github.com/marianafartura">
-	<img width="49.5%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=marianafartura&theme=transparent" alt="marianafartura">
-	<img width="31.4%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianafartura&theme=transparent" alt="marianafartura">
+	<img width="49.5%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=marianafartura&theme=github_dark_dimmed" alt="marianafartura">
+	<img width="31.4%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianafartura&theme=github_dark_dimmed" alt="marianafartura">
 	</a>
 	<br/>
 </p>
