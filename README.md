@@ -7,7 +7,7 @@ Hi, I'm Mariana Fartura!
 <br/>
 <p align="center">
 	<a href="https://github.com/marianafartura">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=E04175&center=true&random=false&width=435&lines=System+Development+Student;Web+Designer;Freelancer;Always+learning+new+things" alt="Descrição das habilidades">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=E04175&center=true&random=false&width=435&lines=Software+Development+Student;Web+Designer;Freelancer;Always+learning+new+things" alt="Descrição das habilidades">
 	</a>
 </p>
 
