@@ -55,6 +55,13 @@ Hi, I'm Mariana Fartura!
     <a href="https://github.com/marianafartura"><img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
+### ⚙️ IDES
+<p>
+    <a href="https://github.com/marianafartura"><img alt="Adobe Dreamweaver" src="https://img.shields.io/badge/Adobe%20Dreamweaver-072401?style=for-the-badge&logo=Adobe%20Dreamweaver&logoColor=34F400"></a>
+    <a href="https://github.com/marianafartura"><img alt="Sublime Text" src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important"></a>
+    <a href="https://github.com/marianafartura"><img alt="Visual Studio Code" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
+</p>
+
 ### 🖍️ Design
 
 <p>
@@ -62,13 +69,6 @@ Hi, I'm Mariana Fartura!
     <a href="https://github.com/marianafartura"><img alt="Adobe Illustrator" src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"></a>
     <a href="https://github.com/marianafartura"><img alt="Adobe InDesign" src="https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=Adobe%20InDesign&logoColor=white"></a>
     <a href="https://github.com/marianafartura"><img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"></a>
-</p>
-
-### ⚙️ IDES
-<p>
-    <a href="https://github.com/marianafartura"><img alt="Adobe Dreamweaver" src="https://img.shields.io/badge/Adobe%20Dreamweaver-072401?style=for-the-badge&logo=Adobe%20Dreamweaver&logoColor=34F400"></a>
-    <a href="https://github.com/marianafartura"><img alt="Sublime Text" src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important"></a>
-    <a href="https://github.com/marianafartura"><img alt="Visual Studio Code" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
 </p>
 
 ### 🚀 Productivity and Organization
