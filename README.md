@@ -60,6 +60,7 @@ Hi, I'm Mariana Fartura!
     <a href="https://github.com/marianafartura"><img alt="Adobe Dreamweaver" src="https://img.shields.io/badge/Adobe%20Dreamweaver-072401?style=for-the-badge&logo=Adobe%20Dreamweaver&logoColor=34F400"></a>
     <a href="https://github.com/marianafartura"><img alt="Sublime Text" src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important"></a>
     <a href="https://github.com/marianafartura"><img alt="Visual Studio Code" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
+    <a href="https://github.com/marianafartura"><img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white"></a>
 </p>
 
 ### 🖍️ Design
