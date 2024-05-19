@@ -7,7 +7,7 @@ Hi, I'm Mariana Fartura!
 <br/>
 <p align="center">
 	<a href="https://github.com/marianafartura">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=E04175&center=true&random=false&width=435&lines=Software+Development+Student;Web+Designer;Freelancer;Always+learning+new+things" alt="Descrição das habilidades">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=d73b85&center=true&random=false&width=435&lines=Software+Development+Student;Web+Designer;Freelancer;Always+learning+new+things" alt="Descrição das habilidades">
 	</a>
 </p>
 
@@ -80,7 +80,16 @@ Hi, I'm Mariana Fartura!
     <a href="https://github.com/marianafartura"><img alt="Microsoft Word" src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white"></a>
     <a href="https://github.com/marianafartura"><img alt="Trello" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"></a>
     <a href="https://github.com/marianafartura"><img alt="Miro" src="https://img.shields.io/badge/Miro-F7C922?style=for-the-badge&logo=Miro&logoColor=050036"></a>
+    <a href="https://github.com/marianafartura"><img alt="Notion" src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white"></a>
+</p>
+
+### ⚡ Others
+
+<p>
     <a href="https://github.com/marianafartura"><img alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"></a>
+    <a href="https://github.com/marianafartura"><img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"></a>
+    <a href="https://github.com/marianafartura"><img alt="AWS" src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"></a>
+    <a href="https://github.com/marianafartura"><img alt="Vercel" src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"></a>
 </p>
 
 </br>
@@ -89,10 +98,8 @@ Hi, I'm Mariana Fartura!
 
 <br/>
 <p align="center">
-	<a href="https://github.com/marianafartura">
-	<img width="49.5%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=marianafartura&theme=monokai" alt="marianafartura">
-	<img width="31.4%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianafartura&theme=monokai" alt="marianafartura">
-	</a>
-	<br/>
+    <img width="53.2%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=marianafartura&theme=bear&hide=stars,contribs" alt="marianafartura">
+    <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianafartura&theme=bear&layout=compact" alt="marianafartura">
 </p>
-</br>
+
+<br/>
