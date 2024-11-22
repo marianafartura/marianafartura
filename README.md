@@ -18,7 +18,7 @@ Hi, I'm Mariana Fartura!
 📚 Studying Software Analysis and Development at University Center Uninter
 📝 Strong interest in responsive design and creative solutions
 🔭 Working with advertising design and CSS/JavaScript animations
-🌱 Focusing on mastering full-stack development, Python, and emerging technologies
+🌱 Focusing on mastering full-stack development and emerging technologies
 🌟 Main languages: HTML5, CSS3, JavaScript, Python and Java
 </pre>
 <hr>
