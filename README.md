@@ -98,8 +98,8 @@ Hi, I'm Mariana Fartura!
 
 <br/>
 <p align="center">
-    <img width="53.2%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=marianafartura&theme=bear&hide=stars,contribs" alt="marianafartura">
-    <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianafartura&theme=bear&layout=compact" alt="marianafartura">
+    <img width="53.2%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=marianafartura&theme=midnight-purple&hide=stars,contribs" alt="marianafartura">
+    <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marianafartura&theme=midnight-purple&layout=compact" alt="marianafartura">
 </p>
 
 <br/>
